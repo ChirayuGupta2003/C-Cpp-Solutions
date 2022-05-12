@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_Cpp_Solutions",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2A2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2A2-Debug-1be18ea292cfc02ea9ed.json",
+					"name" : "Lab2A2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2A3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2A3-Debug-d0e780f644fb128689e0.json",
+					"name" : "Lab2A3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/voldemort/CLionProjects/C-Cpp-Solutions/cmake-build-debug",
+		"source" : "/home/voldemort/CLionProjects/C-Cpp-Solutions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
